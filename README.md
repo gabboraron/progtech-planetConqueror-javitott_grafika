@@ -25,4 +25,4 @@ Készíts egy időzítőt, mely alapján tájékozódhatnak a játékosok, hogy 
 
 # b) Kiegészítés
 A gombokon képek is megjelennek, a terület típúsától függően más-más kép
-
+![a gui javított kinézetére egy példa](javitottgui.jpg)
